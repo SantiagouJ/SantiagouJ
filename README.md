@@ -51,8 +51,8 @@ I enjoy combining **design, code and user experience** to create digital product
 ---
 
 ## 🌎 Connect with me
-- LinkedIn: [link](https://www.linkedin.com/in/santiago-jurado-rodr%C3%ADguez-b56450269/)
-- Behance: [link](https://www.behance.net/santiagjurado5)
+- LinkedIn: [https://www.linkedin.com/in/santiago-jurado](https://www.linkedin.com/in/santiago-jurado-rodr%C3%ADguez-b56450269/)
+- Behance: [https://www.behance.net/santiagjurado](https://www.behance.net/santiagjurado5)
 - Gmail : santiagojuradorodriguez3@gmail.com
 ---
 
