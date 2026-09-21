@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santiago Jurado
 
-💻 Frontend Developer and UX/UI designer focused on building clean, interactive and modern web experiences.
+💻 Full-Stack Developer and UX/UI designer focused on building clean, interactive and modern web experiences.
 
 I enjoy combining **design, code and user experience** to create digital products that feel great to use.
 
