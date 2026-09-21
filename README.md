@@ -8,7 +8,7 @@ I enjoy combining **design, code and user experience** to create digital product
 
 ## 🚀 About Me
 
-- 🌐 Frontend Developer
+- 🌐 Full-Stack Developer
 - 🎨 Interested in UX / UI
 - 🧠 Always learning new technologies
 - 🌎 Open to remote opportunities
