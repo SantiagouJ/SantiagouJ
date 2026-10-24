@@ -49,12 +49,6 @@ I enjoy combining **design, code and user experience** to create digital product
 
 ---
 
-## 📁 Projects
-
-- **Portfolio** — Personal site with design and full-stack work. [santiagojurador.com](https://www.santiagojurador.com)
-
----
-
 ## 🔥 Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SantiagouJ&theme=tokyonight)
@@ -62,6 +56,7 @@ I enjoy combining **design, code and user experience** to create digital product
 ---
 
 ## 🌎 Connect with me
+- Portfolio: [https://www.santiagojurador.com](https://www.santiagojurador.com)
 - LinkedIn: [https://www.linkedin.com/in/santiago-jurado](https://www.linkedin.com/in/santiago-jurado-rodr%C3%ADguez-b56450269/)
 - Behance: [https://www.behance.net/santiagjurado](https://www.behance.net/santiagjurado5)
 - Gmail : santiagojuradorodriguez3@gmail.com
