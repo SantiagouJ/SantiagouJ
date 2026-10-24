@@ -49,6 +49,12 @@ I enjoy combining **design, code and user experience** to create digital product
 
 ---
 
+## 📁 Projects
+
+- **Portfolio** — Personal site with design and full-stack work. [santiagojurador.com](https://www.santiagojurador.com)
+
+---
+
 ## 🔥 Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SantiagouJ&theme=tokyonight)
